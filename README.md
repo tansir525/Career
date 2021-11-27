@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# IDP Ielts and Consultancy
+
+What is all about?
+
+This website all about ielts learning platfrom
+
+1. Choose Curse plan and learn Ielts 
+2. get higher Band Score
+3. Learn online, anywhere any time
+
+Live Link: https://ielts525.netlify.app/home
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
